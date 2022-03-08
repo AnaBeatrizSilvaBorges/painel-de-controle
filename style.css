@@ -30,7 +30,7 @@ main{
 }
 
 .item-container{
-    width: 400px;
+    width: 300px;
     height: 105px;
     display: flex;
     align-items: center;
